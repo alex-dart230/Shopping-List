@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Shopping List</title>
+</head>
+<body>
+    
+    <h1>Dairy</h1>
+    <ol type="1">
+        <li>Milk</li>
+        <img src="milk.jpeg" alt="Milk" width="100px" height="auto">
+        <li>Eggs</li>
+        <li>Cheese</li>
+        <img src="ayyy%20chhese.jpg" alt="Cheese" width="100px" height="auto">
+        <li>Yogurt</li>
+        <li>Half and Half</li>
+        
+    </ol>
+    
+    <h2>Protien</h2>
+    <ol tyle="1">
+        <li>Steak</li>
+         <img src="steak.jpg" alt="Steak" width="100px" height="auto">
+        <li>Chicken</li>
+        <li>Tofu</li>
+        <li>Sausage</li>
+        <li>Salmon</li>
+         <img src="salmon.jpg" alt="Salmon" width="100px" height="auto">
+    
+    </ol>
+    
+    <h3>Drinks</h3>
+    <ol type="1">
+        <li>Lemonade</li>
+        <li>Iced Tea</li>
+        <li>Coke</li>
+        <a href="https://images.albertsons-media.com/is/image/ABS/108010166-ECOM?$ng-ecom-pdp-desktop$&defaultImage=Not_Available"><img  src="https://images.albertsons-media.com/is/image/ABS/108010166-ECOM?$ng-ecom-pdp-desktop$&defaultImage=Not_Available"  alt="Coke Can" width="100px" height="auto"/></a>
+        
+        <li>Sprite</li>
+        <li>Sparkling Water</li>
+    
+    </ol>
+    
+    <h4>Snacks</h4>
+    <ol type= "1">
+        <li>Potato Chips</li>
+        <li>Penuts</li>
+        <li>Crackers</li>
+        <li>Salomi</li>
+        <li>Candy</li>
+        
+    </ol>
+    
+    <h5>Fruit</h5>
+    <ol type="1">
+        <li>Apples</li>
+        <li>Bananas</li>
+        <li>Pears</li>
+        <li>Grapes</li>
+        <li>Oranges</li>
+    
+    </ol>
+    
+</body>
+</html>
